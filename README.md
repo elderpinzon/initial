@@ -1,6 +1,8 @@
 initial
 =======
 
-Initial GitHub Repository
+##Initial GitHub Repository
 
-Elder Pinzon
+###Elder Pinzon
+* PhD Student
+* York University
